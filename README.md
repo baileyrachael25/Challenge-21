@@ -1,6 +1,7 @@
-## Title
+## MERN Stack Book Search Engine
 
 ## Description
+This is a MERN stack application that uses the Google Books API search engine to display a variety of books.
 
 ## Table of Contents
 - [Screenshot of Deployed Application](#deployed)
